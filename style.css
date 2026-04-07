@@ -1,24 +1,28 @@
 body {
-    background-color:white;
-    color:black
+    background-color:black;
+    color:white;
+
 }
 
-p[red] {
+h2 {
     color:red;
+    text-align: center;
+
 }
 
-p[blue] {
-    color:blue;
+#img {
+    border: 2px solid crimson;
+    padding: 1px;
+    margin: auto;
+    display: block;
+    width: 480;
+    height: 270;
+
 }
 
-p[orange] {
-    color:orange;
-}
+#foot {
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 375px;
 
-p[green] {
-    color:green;
-}
-
-p[yellow] {
-    color:yellow;
 }
