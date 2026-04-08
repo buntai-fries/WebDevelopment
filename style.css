@@ -1,28 +1,27 @@
-body {
-    background-color:black;
-    color:white;
+body{
+    background-color:white;
+    color:black;
 
 }
 
-h2 {
-    color:red;
-    text-align: center;
+#outerbox{
+    color:whitesmoke;
+    background-color:#CE1126;
+    padding-bottom:45px;
+    width:300px;
+    text-align:center;
+    
+}
+
+#innerbox{
+    background-color:#002868;
 
 }
 
-#img {
-    border: 2px solid crimson;
-    padding: 1px;
-    margin: auto;
-    display: block;
-    width: 480;
-    height: 270;
-
-}
-
-#foot {
-    color: whitesmoke;
-    text-align: center;
-    margin-top: 375px;
+.circle p{
+    color:black;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
 
 }
