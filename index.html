@@ -2,54 +2,26 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>The Flag of Laos</title>
-  <style>
-    .flag {
-      background-color: #CE1126;
-      width: 900px;
-      height: 600px;
-      position: relative;
-
-    }
-    .flag > div {
-      width: 100%;
-      height: 300px;
-      background-color: #002868;
-      position: absolute;
-      top: 150px;
-
-    }
-    .flag > div > div {
-      width: 200px;
-      height: 200px;
-      background-color: white;
-      border-radius: 50%;
-      position: absolute;
-      top: 50px;
-      left: 350px;
-
-    }
-    p {
-      font-size: 5rem;
-      text-align: center;
-      color: white;
-      margin: 0;
-
-    }
-    .flag > div > div p {
-      color: black;
-
-    }
-  </style>
+  <title>CSS Layer</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="flag">
-    <p>The Flag</p>
-    <div>
-      <div>
-        <p>of Laos</p>
+
+  <div class="outer-box">
+    <p>Position</p>
+    <div class="box1">
+      <p>Margin</p>
+      <div class="box2">
+        <p>Border</p>
+        <div class="box3">
+          <p>Padding</p>
+          <div class="inner-box">
+            <p class="text">1000px * 600px</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+
 </body>
 </html>
