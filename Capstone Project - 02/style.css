@@ -27,20 +27,16 @@ p {
 }  
 
 .container {
-    display:inline-flex;
-    align-items:center;
-    gap:80px; 
-
-}
-
-.contact{
-
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:1rem; 
 
 }
 
 .footer-class {
     background-color: #4aba12c4;
-    height:200px;
+    height:150px;
     text-align: center;
     font-size:14px;
     word-spacing: 10px;
