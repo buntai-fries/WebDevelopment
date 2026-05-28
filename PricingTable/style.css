@@ -1,0 +1,36 @@
+body {
+    font-family:"Playwrite GB S", cursive;
+    font-size: 20px;
+    color: black;
+    background-color: aliceblue;
+
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+    gap: 250px;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.box {
+    flex-direction: row;
+    border: 1.5px solid #b4dcff;
+    border-radius: 15%;
+
+}
+
+a {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+
+}
+
+.terms {
+    text-align: center;
+    padding-top: 25px;
+
+}
