@@ -1,6 +1,6 @@
-# WebDevelopment
+# Web-Development
 
-## Front-End Web Development: 
+## 1. Front-End Web Development: 
 
 A collection of web development projects showcasing HTML, CSS, and JavaScript skills.
 
@@ -15,22 +15,22 @@ A capstone project with multiple pages including a contact form and hobbies page
 - `hobbies.html` - Hobbies page
 - `img/` - Image assets
 
-### 2. DiceGame
+### 2. Dice-Game
 A JavaScript-based dice game.
 - `index.html` - Game interface
 - `index.js` - Game logic
 - `style.css` - Styling
 - `img/` - Image assets
 
-### 3. PortfolioSimple
+### 3. Simple Portfolio 
 A simple personal portfolio website.
 - `index.html` - Main portfolio page
 - `style.css` - Styling
 - `img/` - Image assets
 - `min/` - Minified assets
 
-### 4. PricingTable
-A responsive pricing table component.
+### 4. Pricing Table
+A responsive pricing table component (inspired by Netflix billing page).
 - `index.html` - Pricing table page
 - `style.css` - Styling
 
