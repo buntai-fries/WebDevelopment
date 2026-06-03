@@ -41,6 +41,12 @@ A dog-themed landing page website (inspired by Tinder).
 - `img/` - Image assets
 - `min/` - Minified assets
 
+### 6. The Simon Game
+The 90s popular game is the inspiration of this website.
+- `index.html` - Main landing page
+- `style.css` - Styling
+- `sound/` - Sound assets
+- `game_logic.js` - Logic behind the game and website interaction
 ---
 
 ## Technologies Used
@@ -49,4 +55,4 @@ A dog-themed landing page website (inspired by Tinder).
 |------------|-------|
 | HTML5 | Structure for all projects |
 | CSS3 | Styling and responsive design |
-| JavaScript | Interactive features (DiceGame) |
+| JavaScript & jQuery | Interactive features  |
