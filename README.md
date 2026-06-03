@@ -6,7 +6,7 @@ A collection of web development projects showcasing HTML, CSS, and JavaScript sk
 
 ## Projects
 
-This repository contains the following web development projects:
+The front-end section of this repository contains the following web development projects:
 
 ### 1. CapstoneProject-01
 A capstone project with multiple pages including a contact form and hobbies page.
