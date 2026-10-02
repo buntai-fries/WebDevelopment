@@ -3,6 +3,7 @@
 ![Course Banner](https://img.shields.io/badge/Course-The%20Complete%202024%20Web%20Development%20Bootcamp-blue?style=for-the-badge&logo=udemy)
 ![Instructor](https://img.shields.io/badge/Instructor-Dr.%20Angela%20Yu-orange?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Progress-Section%2028%20%2F%2040+-success?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Section%2028%20%2F%2040+-success?style=for-the-badge)
 
 Welcome to my full-stack web development learning repository! This repo contains every project, exercise, and note I am writing while completing **[The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** by Dr. Angela Yu.
 
@@ -120,7 +121,13 @@ node index.js
   http://localhost:3000
 ```
 
-## 🧠 Key Takeaways & Philosophy
+OR
+
+```bash
+  http://localhost:5000
+```
+
+## 🧠 Key Takeaways
 
 ### Read the Docs:
 
